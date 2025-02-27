@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "sk.okreq.app",
+    "sha256_cert_fingerprints": ["96:36:53:1E:5B:4F:86:A7:13:E3:56:94:EF:4B:F1:E1:86:CB:84:C0:05:92:01:DD:DE:60:A4:A7:82:55:75:6F"]
+  }
+}]
